@@ -1,1 +1,3 @@
 # Phones
+- Brand
+- Model
